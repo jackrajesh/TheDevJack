@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: "Special Gothic Expanded One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    zoom: 70%;
+    scroll-behavior: smooth;
+}
+.logo{
+    font-size: 1rem;
+    margin-left:0.5rem ;
+    position: absolute;
+}
+
+.a{
+    position: relative; 
+    font-size: 1rem;
+    display: flex;
+    justify-content: right;
+    text-decoration: none;
+    padding: 1rem;
+}
+.a1:hover{
+    margin-left: 10%;
+    text-decoration: none;
+    opacity: 0.8;
+    color: rgb(248, 248, 248);
+    .s1{
+        color: deepskyblue;
+    }
+}
+.a1{
+    margin-left: 10%;
+    text-decoration: none;
+    color: deepskyblue;
+}
+.s1{
+    color: white;
+}
+.l1s{
+    color: deepskyblue;
+}
+.para-index{
+    margin-top: 3rem;
+    text-align: center;
+    word-spacing: 0.4rem;
+    line-height: 1.7rem;
+    font-size: 0.8rem;
+    margin: 1.5rem;
+}
+.skill{
+    color: rgb(255, 129, 129);
+}
